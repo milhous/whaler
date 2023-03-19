@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FA8F66" offset="0.0327797203%"></stop>
+            <stop stop-color="#FAAF66" offset="99.9480988%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FA8F66" offset="0.0327797203%"></stop>
+            <stop stop-color="#FAAF66" offset="99.9480988%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="夜间正式" transform="translate(-1075.000000, -734.000000)">
+            <g id="编组" transform="translate(1075.000000, 734.000000)">
+                <rect id="矩形" x="0" y="0" width="48" height="48"></rect>
+                <g id="编组备份" transform="translate(3.000000, 3.000000)" stroke="#333333" stroke-width="0.71">
+                    <circle id="椭圆形备份" fill="url(#linearGradient-1)" cx="21" cy="21" r="20.645"></circle>
+                    <ellipse id="椭圆形" fill="#ffffff" cx="19.5" cy="21" rx="19.145" ry="20.645"></ellipse>
+                    <g id="路径-2" transform="translate(9.000000, 4.500000)" fill="url(#linearGradient-2)">
+                        <path
+                            d="M13.1068522,21.8407281 L3,30 L9.1875,17.625 L0,15 L13.5,0 L10.5,11.0625 L21,15 C19.4295155,16.3610866 18.0290042,17.574863 16.7984662,18.6413293"
+                            id="路径"
+                            transform="translate(10.500000, 15.000000) rotate(-360.000000) translate(-10.500000, -15.000000) ">
+                        </path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

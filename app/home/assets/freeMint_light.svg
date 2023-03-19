@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.3088942%" id="linearGradient-1">
+            <stop stop-color="#FA8F66" offset="0%"></stop>
+            <stop stop-color="#FAAF66" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="夜间正式" transform="translate(-463.000000, -733.000000)">
+            <g id="编组-2" transform="translate(463.000000, 724.000000)">
+                <g id="编组"
+                    transform="translate(30.317168, 27.577164) rotate(-315.000000) translate(-30.317168, -27.577164) translate(12.317168, 6.577164)">
+                    <path d="M10.5,28.5" id="路径-28" stroke="#333333" stroke-width="1.33333333"></path>
+                    <path d="M9,21 C2,24 -0.916666667,31 0.25,42 L9,36 L9,21" id="路径-29" stroke="#333333"
+                        stroke-width="0.666666667" fill="url(#linearGradient-1)"></path>
+                    <path d="M36,21 C29,24 26.0833333,31 27.25,42 L36,36 L36,21" id="路径-29备份" stroke="#333333"
+                        stroke-width="0.666666667" fill="url(#linearGradient-1)"
+                        transform="translate(31.500000, 31.500000) scale(-1, 1) translate(-31.500000, -31.500000) ">
+                    </path>
+                    <path
+                        d="M9,39 L9,36 C9,33 9,27 9,18 C9,9 12,3 18,1.38762105e-12 C24,3 27,9 27,18 C27,27 27,33 27,36 L27,39 L18,39 L9,39 Z"
+                        id="路径-27" stroke="#333333" stroke-width="0.666666667" fill="#ffffff" stroke-linejoin="round">
+                    </path>
+                    <circle id="椭圆形" stroke="#333333" stroke-width="0.666666667" cx="18" cy="13.5" r="5.66666667">
+                    </circle>
+                    <circle id="椭圆形" stroke="#333333" stroke-width="0.666666667" cx="18" cy="13.5" r="4.16666667">
+                    </circle>
+                    <rect id="矩形" stroke="#CACACA" stroke-width="1.33333333" fill="#D8D8D8" x="20.1666667"
+                        y="34.4166667" width="4.66666667" height="1.66666667"></rect>
+                    <rect id="矩形备份" fill="#CACACA" x="18" y="33.75" width="1" height="3"></rect>
+                    <circle id="椭圆形" fill="#FA8F66" cx="16.5" cy="13.5" r="1.5"></circle>
+                    <polygon id="矩形" stroke="#333333" stroke-width="0.666666667" fill="#CACACA"
+                        points="12.5497447 39 23.4502553 39 24 42 12 42"></polygon>
+                </g>
+                <rect id="矩形" x="0" y="9.58839276" width="48" height="48"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

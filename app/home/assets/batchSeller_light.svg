@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FA8F66" offset="0.0327797203%"></stop>
+            <stop stop-color="#FAAF66" offset="99.9480988%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FA8F66" offset="0.0327797203%"></stop>
+            <stop stop-color="#FAAF66" offset="99.9480988%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="夜间正式" transform="translate(-157.000000, -932.000000)">
+            <g id="编组-15" transform="translate(157.000000, 932.000000)">
+                <rect id="矩形" x="0" y="0" width="48" height="48"></rect>
+                <g id="编组-6" transform="translate(8.000000, 3.346348)">
+                    <g id="编组备份" stroke-width="0.71">
+                        <path
+                            d="M27.6363636,6.3982124 L30.5454545,6.3982124 C31.3487778,6.3982124 32,7.04943458 32,7.85275785 L32,39.8527579 C32,40.6560811 31.3487778,41.3073033 30.5454545,41.3073033 L7.27272727,41.3073033 C6.469404,41.3073033 5.81818182,40.6560811 5.81818182,39.8527579 L5.81818182,36.9436669"
+                            id="路径" stroke="#333333" fill="url(#linearGradient-1)"></path>
+                        <path
+                            d="M19.7247136,2.03457603 L25.7938562,2.03457603 C26.6318299,2.03457603 27.3111418,2.68579822 27.3111418,3.48912149 L27.3111418,35.4891215 C27.3111418,36.2924448 26.6318299,36.9436669 25.7938562,36.9436669 L1.51728566,36.9436669 C0.679311928,36.9436669 0,36.2924448 0,35.4891215 L0,3.48912149 C0,2.68579822 0.679311928,2.03457603 1.51728566,2.03457603 L7.58642829,2.03457603"
+                            id="路径" stroke="#333333" fill="#ffffff" stroke-linecap="round"></path>
+                        <rect id="矩形" stroke="#333333" fill="url(#linearGradient-2)" x="9.3540655" y="0.355"
+                            width="8.60301085" height="3.35915207" rx="1.45454545"></rect>
+                        <polyline id="路径-39" stroke="#333333" stroke-linecap="round"
+                            points="5.81818182 10.7618488 14.5454545 10.7618488 21.8181818 10.7618488"></polyline>
+                        <line x1="5.81818182" y1="16.5800306" x2="14.5454545" y2="16.5800306" id="路径-39备份"
+                            stroke="#333333" stroke-linecap="round"></line>
+                        <polyline id="路径-39备份-2" stroke="#333333" stroke-linecap="round"
+                            points="5.81818182 22.3982124 14.5454545 22.3982124 18.9090909 22.3982124"></polyline>
+                        <polyline id="路径-39备份-3" stroke="#333333" stroke-linecap="round"
+                            points="5.81818182 28.2163942 14.5454545 28.2163942 23.2727273 28.2163942"></polyline>
+                    </g>
+                    <polyline id="路径-3备份-5" stroke="#FA9066" stroke-width="0.5" stroke-linecap="round"
+                        stroke-linejoin="round" points="19.5354814 22.991938 21.7582548 25.955636 25.4628773 21.510089">
+                    </polyline>
+                    <polyline id="路径-3备份-6" stroke="#FA9066" stroke-width="0.5" stroke-linecap="round"
+                        stroke-linejoin="round" points="16 16.6014117 18.2227735 19.5651097 21.9273959 15.1195627">
+                    </polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
