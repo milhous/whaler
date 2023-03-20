@@ -12,6 +12,7 @@
 |     |－ public 静态文件，可以从 base URL (/) 引用文件
 |     |－ webpack webpack配置文件
 |     |－ app 源文件
+|           |－ api API 路由
 |           |－ assets 公共静态资源
 |                 |－ fonts 字体
 |                 |－ images 图片
@@ -25,7 +26,6 @@
 |                 |－ assets 静态资源
 |                 |－ components 组件
 |                 |－ utils 实用工具
-|                 |－ api 接口调用
 |                 |－ types 类型声明
 |           |－ nft 页面 - NFT类相关
 |           |－ services 页面 - 服务类相关
