@@ -83,7 +83,7 @@
 
 ### `yarn run update`
 
-更新依赖包版本号。
+更新升级依赖包版本号。
 
 ## Learn More
 
