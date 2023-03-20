@@ -1,6 +1,6 @@
 # whaler
 
-# Getting Started with NextJS
+## Getting Started with NextJS
 
 这个项目是使用引导程序启动的 [NextJS](https://beta.nextjs.org/docs/getting-started).
 
