@@ -6,8 +6,6 @@
 
 ## 目录结构
 
-### 目录结构
-
 ```
 |－ whaler
 |     |－ @types 声明文件
@@ -41,7 +39,7 @@
 |                 |－ tokenSender 批量发送代币
 |                 |－ vanityGeneratorEth 靓号生成
 |           |－ globals.scss 全局样式
-|           |－ head.tsx head相关
+|           |－ head.tsx head 内容相关
 |           |－ layout.tsx 页面公共内容相关
 |           |－ middleware.ts nextJS 中间件
 |           |－ next.config NextJS 配置文件
