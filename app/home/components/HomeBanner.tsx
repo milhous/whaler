@@ -26,7 +26,6 @@ export default function HomeBanner() {
         </ul>
       </div>
       <Image
-        className="home-banner_slogan w-[540px]"
         src={Assets.picBannerLight}
         alt="Bsports"
         width={Assets.picBannerLight.width}

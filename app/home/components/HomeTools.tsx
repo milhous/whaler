@@ -76,6 +76,7 @@ export default function HomeTools() {
       <div>
         <Link className="full_btn px-[30px]" href={''}>
           查看所有工具
+          <i className="ivu-icon ivu-icon-md-arrow-round-forward ml-1"></i>
         </Link>
       </div>
     </section>

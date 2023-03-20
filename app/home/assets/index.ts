@@ -7,6 +7,9 @@ import IconNftMonitorLight from './nftMonitor_light.svg';
 import IconTokenSenderLight from './tokenSender_light.svg';
 import IconWalletSafetyCheckLight from './walletSafetyCheck_light.svg';
 import picBannerLight from './banner_light.svg?url';
+import picIntro1Light from './intro1_light.svg?url';
+import picIntro2Light from './intro2_light.svg?url';
+import picIntro3Light from './intro3_light.svg?url';
 
 const Assets = {
   IconAutoTradeLight,
@@ -18,6 +21,9 @@ const Assets = {
   IconTokenSenderLight,
   IconWalletSafetyCheckLight,
   picBannerLight,
+  picIntro1Light,
+  picIntro2Light,
+  picIntro3Light,
 };
 
 export default Assets;

@@ -1,5 +1,10 @@
+import localFont from 'next/font/local';
+
+import UIFooter from '@ui/footer';
+
 import './globals.scss';
 
+// SEO
 export const metadata = {
   title: {
     default: 'Whaler',
@@ -45,10 +50,20 @@ export const metadata = {
   },
 };
 
+// 字体
+const fontIonicons = localFont({
+  src: './assets/fonts/ionicons.woff2',
+  variable: '--font-Ionicons',
+  display: 'swap',
+});
+
 export default function RootLayout({children}: {children: React.ReactNode}) {
   return (
-    <html>
-      <body>{children}</body>
+    <html className={`${fontIonicons.variable}`}>
+      <body>
+        {children}
+        <UIFooter />
+      </body>
     </html>
   );
 }

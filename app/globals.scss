@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 body {
+  color: #333;
+
   main {
     @apply mx-auto my-0 w-full;
   }
@@ -15,20 +17,38 @@ body {
     color: #6a7076;
   }
 
+  .text_hover {
+    @apply cursor-pointer transition-colors hover:text-orange;
+  }
+
   .line_bot {
-    @apply relative before:absolute before:bottom-0 before:left-1/2 before:h-1 before:w-4/5 before:-translate-x-1/2 before:bg-yellow;
+    @apply relative before:absolute before:bottom-0 before:left-1/2 before:h-1 before:w-4/5 before:-translate-x-1/2 before:bg-orange;
   }
 
   .full_btn,
   .outline_btn {
-    @apply block cursor-pointer rounded border border-solid border-yellow py-2.5 text-center text-[16px] font-semibold leading-none transition hover:opacity-90;
+    @apply flex cursor-pointer items-center justify-center rounded border border-solid border-orange py-2.5 text-center text-[16px] font-semibold leading-none transition hover:opacity-90;
   }
 
   .full_btn {
-    @apply bg-yellow text-white;
+    @apply bg-orange text-white;
   }
 
   .outline_btn {
-    @apply bg-white font-semibold text-yellow hover:bg-yellow hover:text-white;
+    @apply bg-white font-semibold text-orange hover:bg-orange hover:text-white;
+  }
+
+  .ivu-icon {
+    @apply block text-center text-[16px] font-normal not-italic leading-none;
+
+    font-family: var(--font-Ionicons);
+
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    &.ivu-icon-md-arrow-round-forward {
+      @apply before:content-["\f347"];
+    }
   }
 }

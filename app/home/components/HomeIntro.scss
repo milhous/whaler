@@ -1,0 +1,27 @@
+.home .home-intro {
+  @apply mt-[120px] space-y-[120px];
+
+  &_content {
+    @apply flex flex-col md:flex-row md:items-center md:space-x-[40px] md:px-[20px];
+
+    div {
+      @apply flex w-full flex-col md:w-[calc(50%-20px)];
+    }
+
+    h3 {
+      @apply text-[24px] font-semibold leading-8;
+    }
+
+    p {
+      @apply mt-8 mb-4 whitespace-pre-wrap text-[16px] leading-8 md:max-w-[460px];
+    }
+
+    a {
+      @apply text-[16px] hover:underline;
+    }
+
+    img {
+      @apply h-[50vw] w-full py-[60px] md:h-[260px] md:w-[calc(50%-20px)] md:py-0;
+    }
+  }
+}
