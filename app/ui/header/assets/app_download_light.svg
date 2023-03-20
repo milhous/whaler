@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(0 -6.039613253960852e-14)  rotate(0 11.99999999999983 12)">
+        <g opacity="1"
+            transform="translate(5.100933876451734 1.05729344198528)  rotate(0 6.960201579797625 10.51960327900727)">
+            <path id="矩形" fill-rule="evenodd" style="fill:#333333"
+                transform="translate(0 0)  rotate(0 6.960201579797625 10.51960327900727)" opacity="1"
+                d="M2,21.04L11.92,21.04C13.02,21.04 13.92,20.14 13.92,19.04L13.92,2C13.92,0.9 13.02,0 11.92,0L2,0C0.9,0 0,0.9 0,2L0,19.04C0,20.14 0.9,21.04 2,21.04Z " />
+            <path id="矩形" fill-rule="evenodd" style="fill:#ffffff"
+                transform="translate(0.959542425832467 1.732986879797465)  rotate(0 5.947828565078595 7.971055213219315)"
+                opacity="1"
+                d="M1,15.94L10.9,15.94C11.45,15.94 11.9,15.49 11.9,14.94L11.9,1C11.9,0.45 11.45,0 10.9,0L1,0C0.45,0 0,0.45 0,1L0,14.94C0,15.49 0.45,15.94 1,15.94Z " />
+            <path id="椭圆形" fill-rule="evenodd" style="fill:#ffffff"
+                transform="translate(5.899066123547698 18.3027824711746)  rotate(0 1.0000000000002276 1.0000000000001705)"
+                opacity="1" d="M2,1C2,0.45 1.55,0 1,0C0.45,0 0,0.45 0,1C0,1.55 0.45,2 1,2C1.55,2 2,1.55 2,1Z " />
+            <g opacity="1" transform="translate(2.935488926633923 5.300590238805638)  rotate(0 4 4.571428571428571)">
+                <path id="路径" fill-rule="evenodd" style="fill:#333333"
+                    transform="translate(0 0)  rotate(0 4 4.571428571428571)" opacity="1"
+                    d="M4,9.14L8,5.14L7.25,4.39L4.58,7.09L4.58,0L3.43,0L3.43,7.09L0.75,4.39L0,5.14L4,9.14Z " />
+            </g>
+        </g>
+    </g>
+</svg>

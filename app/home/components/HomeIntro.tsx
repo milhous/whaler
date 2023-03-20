@@ -20,7 +20,7 @@ export default function HomeIntro() {
         </div>
         <Image
           src={Assets.picIntro1Light}
-          alt="Bsports"
+          alt="因为安全，所以安心"
           width={Assets.picIntro1Light.width}
           height={Assets.picIntro1Light.height}
           priority
@@ -29,7 +29,7 @@ export default function HomeIntro() {
       <div className="home-intro_content !flex-col-reverse md:!flex-row">
         <Image
           src={Assets.picIntro2Light}
-          alt="Bsports"
+          alt="免费试用+灵活的付费方式"
           width={Assets.picIntro2Light.width}
           height={Assets.picIntro2Light.height}
           priority
@@ -55,7 +55,7 @@ export default function HomeIntro() {
         </div>
         <Image
           src={Assets.picIntro3Light}
-          alt="Bsports"
+          alt="移动端支持"
           width={Assets.picIntro3Light.width}
           height={Assets.picIntro3Light.height}
           priority

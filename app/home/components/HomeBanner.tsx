@@ -27,7 +27,7 @@ export default function HomeBanner() {
       </div>
       <Image
         src={Assets.picBannerLight}
-        alt="Bsports"
+        alt="最好用的区块链工具箱"
         width={Assets.picBannerLight.width}
         height={Assets.picBannerLight.height}
         priority

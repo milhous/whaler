@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 body {
+  @apply text-base;
+
   color: #333;
 
   main {
@@ -14,7 +16,7 @@ body {
   }
 
   .text_desc {
-    color: #6a7076;
+    @apply text-gray-light;
   }
 
   .text_hover {
@@ -39,7 +41,7 @@ body {
   }
 
   .ivu-icon {
-    @apply block text-center text-[16px] font-normal not-italic leading-none;
+    @apply block text-center text-[16px] font-normal not-italic leading-none transition;
 
     font-family: var(--font-Ionicons);
 
@@ -49,6 +51,14 @@ body {
 
     &.ivu-icon-md-arrow-round-forward {
       @apply before:content-["\f347"];
+    }
+
+    &.ivu-icon-md-arrow-forward {
+      @apply before:content-["\f344"];
+    }
+
+    &.ivu-icon-ios-arrow-down {
+      @apply before:content-["\f116"];
     }
   }
 }

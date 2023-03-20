@@ -1,9 +1,10 @@
 import Assets from './assets';
 import './index.scss';
 
+// UI - Footer
 export default function UIFooter() {
   return (
-    <div className="ui-footer">
+    <footer className="ui-footer">
       <section className="container">
         <p>
           <Assets.IconRedHeart />
@@ -32,6 +33,6 @@ export default function UIFooter() {
           </li>
         </ul>
       </section>
-    </div>
+    </footer>
   );
 }
