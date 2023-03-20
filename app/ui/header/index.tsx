@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import HeaderMenu from './components/HeaderMenu';
+import HeaderSidebar from './components/HeaderSidebar';
 import {SERVICES, NFT, TOOLS} from './utils/router';
 import Assets from './assets';
 import './index.scss';
@@ -55,6 +56,7 @@ export default function UIHeader() {
         <button>
           <Assets.IconWallet />
         </button>
+        <HeaderSidebar />
       </div>
     </header>
   );

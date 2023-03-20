@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(0 -5.684341886080802e-14)  rotate(0 12 12.00000000000051)">
+        <g opacity="1"
+            transform="translate(2.619160748647118 2.43933982822125)  rotate(0 9.380839251352786 9.56066017177976)">
+            <rect id="矩形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 4)  rotate(0 5.142878497576705 7)" x="0.5" y="0.5" rx="1.5"
+                width="10.28575699515341" height="13" />
+            <path id="路径" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(3 2)  rotate(0 5 5.5)"
+                d="M0,2.08L0,2C0,0.9 0.9,0 2,0L8,0C9.11,0 10,0.9 10,2L10,11 " />
+            <path id="路径" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(6 0)  rotate(0 5 7)"
+                d="M0,2.13L0,2C0,0.9 0.9,0 2,0L8,0C9.11,0 10,0.9 10,2L10,12C10,13.1 9.11,14 8,14 " />
+            <g opacity="1"
+                transform="translate(1.142878497576476 6.999999999999773)  rotate(0 4.000000000000227 4.000000000000227)">
+                <path id="椭圆形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(0 0)  rotate(0 4.000000000000227 4.000000000000227)"
+                    d="M8,4C8,1.79 6.21,0 4,0C1.79,0 0,1.79 0,4C0,6.21 1.79,8 4,8C6.21,8 8,6.21 8,4Z " />
+                <g opacity="1"
+                    transform="translate(2.674666666666894 1.500000000000227)  rotate(0 1.325333333333333 2.5)">
+                    <g opacity="1" transform="translate(0 0)  rotate(0 1.325333333333333 2.5)">
+                        <path id="路径" fill-rule="evenodd" style="fill:#8c91a3"
+                            transform="translate(0 0.7686666666666611)  rotate(0 1.325333333333333 1.7313333333333334)"
+                            opacity="1"
+                            d="M0,2.3C0.03,2.71 0.17,3.01 0.43,3.21C0.66,3.38 0.97,3.46 1.36,3.46C1.75,3.46 2.07,3.38 2.3,3.22C2.53,3.05 2.65,2.81 2.65,2.52C2.65,2.22 2.51,1.99 2.24,1.82C2.1,1.74 1.81,1.63 1.37,1.5C1.05,1.4 0.84,1.33 0.76,1.29C0.56,1.19 0.47,1.05 0.47,0.88C0.47,0.69 0.55,0.55 0.71,0.46C0.85,0.37 1.04,0.34 1.29,0.34C1.56,0.34 1.77,0.39 1.92,0.51C2.06,0.63 2.16,0.81 2.2,1.05L2.58,1.05C2.54,0.7 2.42,0.43 2.19,0.26C1.98,0.08 1.68,0 1.31,0C0.96,0 0.68,0.07 0.46,0.22C0.21,0.38 0.09,0.61 0.09,0.9C0.09,1.18 0.21,1.4 0.47,1.54C0.58,1.6 0.84,1.69 1.24,1.82C1.61,1.92 1.85,2 1.94,2.06C2.16,2.17 2.27,2.34 2.27,2.55C2.27,2.73 2.19,2.87 2.02,2.97C1.85,3.07 1.63,3.12 1.36,3.12C1.06,3.12 0.84,3.06 0.68,2.94C0.51,2.8 0.41,2.59 0.38,2.3L0,2.3Z " />
+                        <path id="路径 57" fill-rule="evenodd" style="fill:#8c91a3"
+                            transform="translate(1.125333333333401 0)  rotate(0 0.19999998807907104 0.44850268959999084)"
+                            opacity="1" d="M0 -0.0029946L0 0.897005L0.4 0.897005L0.4 -0.0029946L0 -0.0029946Z " />
+                        <path id="路径 57备份" fill-rule="evenodd" style="fill:#8c91a3"
+                            transform="translate(1.125333333333401 4)  rotate(0 0.19999998807907104 0.44850268959999084)"
+                            opacity="1" d="M0 -0.0029946L0 0.897005L0.4 0.897005L0.4 -0.0029946L0 -0.0029946Z " />
+                    </g>
+                </g>
+            </g>
+            <g opacity="1"
+                transform="translate(7.785756995153406 6.999999999999261)  rotate(0 5.48796075377608 6.06066017178013)">
+                <path id="椭圆形" fill-rule="evenodd" style="fill:#FFFFFF" transform="translate(0 0)  rotate(0 3.5 3.5)"
+                    opacity="1"
+                    d="M7,3.5C7,1.57 5.43,0 3.5,0C1.57,0 0,1.57 0,3.5C0,5.43 1.57,7 3.5,7C5.43,7 7,5.43 7,3.5Z " />
+                <path id="椭圆形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(0 0)  rotate(0 3.5 3.5)"
+                    d="M7,3.5C7,1.57 5.43,0 3.5,0C1.57,0 0,1.57 0,3.5C0,5.43 1.57,7 3.5,7C5.43,7 7,5.43 7,3.5Z " />
+                <path id="矩形" fill-rule="evenodd" style="fill:#FFFFFF"
+                    transform="translate(6.293940992212697 5.939339828220795)  rotate(-45 1.5 3)" opacity="1"
+                    d="M1.5,6L1.5,6C1.9,6 2.28,5.84 2.56,5.56C2.84,5.28 3,4.9 3,4.5L3,1.5C3,1.1 2.84,0.72 2.56,0.44C2.28,0.16 1.9,0 1.5,0L1.5,0C1.1,0 0.72,0.16 0.44,0.44C0.16,0.72 0,1.1 0,1.5L0,4.5C0,4.9 0.16,5.28 0.44,5.56C0.72,5.84 1.1,6 1.5,6Z " />
+                <rect id="矩形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(6.293940992212697 5.939339828220795)  rotate(-45 1.5 3)" x="0.5" y="0.5" rx="1"
+                    width="2" height="5" />
+            </g>
+        </g>
+    </g>
+</svg>

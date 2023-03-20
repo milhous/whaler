@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="25"
+    viewBox="0 0 24 25" fill="none">
+    <g opacity="1"
+        transform="translate(1.1368683772161603e-13 -6.16358846627918e-7)  rotate(0 11.999999999999945 12.00167305293041)">
+        <g opacity="1"
+            transform="translate(1.811035461210849 3.003346105860771)  rotate(0 10.09448226939452 9.080809641357295)">
+            <g opacity="1" transform="translate(0 0)  rotate(0 10.09448226939452 9.080809641357295)">
+                <g opacity="1"
+                    transform="translate(0 0.9999999999998366)  rotate(0 10.09448226939452 8.580809641357375)">
+                    <path id="路径 95" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                        transform="translate(1.026891553003338 2.313544382483663)  rotate(0 2.7444614922150325 3.5321931429338087)"
+                        d="M4.73,7.06C5.82,5.69 5.74,3.34 4.48,0L0,7.06L4.73,7.06Z " />
+                    <path id="路径 96" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                        transform="translate(0 0)  rotate(0 10.09448226939452 8.580809641357375)"
+                        d="M6.51,11.6L9.11,11.6L9.11,13.27C8.11,13.27 7.14,13.27 6.19,13.27C5.24,13.27 4.81,12.57 4.91,11.16L0,11.16C0.81,17.16 6.19,17.16 11.68,17.16C15.34,17.16 18.17,14.94 20.19,10.5C18.07,10.83 16.07,11.75 14.19,13.27L11.15,13.27L11.15,11.68C13.58,11.68 16.61,7.41 13.53,3.76C11.48,1.32 9.22,0.07 6.74,0C9.18,3.35 9.11,7.22 6.51,11.6Z " />
+                </g>
+                <path id="路径 97" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(9.688964538789378 0)  rotate(0 0.5 0.899954565669532)" d="M0.5,1.8L0.5,0 " />
+            </g>
+            <path id="路径 98" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(10.09448226939458 4.500000000000099)  rotate(0 0.929109760874412 0.5)"
+                d="M0,0.5L1.86,0.5 " />
+            <path id="路径 98备份" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(9.682655839088852 6.754735301223803)  rotate(0 1.8582195217488635 0.5)"
+                d="M0,0.5L3.72,0.5 " />
+            <path id="路径 98备份 2" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(9.379131853669605 9.568031046562457)  rotate(0 1.878328119838461 0.5)"
+                d="M0,0.5L3.76,0.5 " />
+        </g>
+    </g>
+</svg>

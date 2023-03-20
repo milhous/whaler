@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(0 0)  rotate(0 12 12)">
+        <g opacity="1" transform="translate(3 1)  rotate(0 9 10.5)">
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(5 3)  rotate(0 6.5 9)"
+                d="M8.97,0L12,0C12.55,0 13,0.45 13,1L13,17C13,17.55 12.55,18 12,18L1,18C0.45,18 0,17.55 0,17L0,16.95 " />
+            <rect id="矩形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(4 0)  rotate(0 2.5 1.5)" x="0.5" y="0.5" rx="0.09999999999999998" width="4"
+                height="2" />
+            <path id="路径" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 1)  rotate(0 6.5 9)"
+                d="M10.02,0L12,0C12.55,0 13,0.45 13,1L13,17C13,17.55 12.55,18 12,18L1,18C0.45,18 0,17.55 0,17L0,1C0,0.45 0.45,0 1,0L3.05,0 " />
+            <path id="路径 43" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.035364948710821 5.460865965717176)  rotate(0 3.9709358539612367 0.5)"
+                d="M0,0.5L7.94,0.5 " />
+            <path id="路径 43备份 2" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.035364948710805 9.460865965717176)  rotate(0 1.9709358539612525 0.5)"
+                d="M0,0.5L3.94,0.5 " />
+            <path id="路径 43备份 3" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.035364948710821 13.46086596571718)  rotate(0 3.9709358539612367 0.5)"
+                d="M0,0.5L7.94,0.5 " />
+            <path id="路径 44" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(8.055088100923598 9.148739851059915)  rotate(0 1.8713937984649935 1.0981981572989665)"
+                d="M0,0.54L1.64,2.2L3.74,0 " />
+        </g>
+    </g>
+</svg>

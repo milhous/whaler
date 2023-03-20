@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(2.2737367544323206e-13 0)  rotate(0 12 11.99999999999997)">
+        <g opacity="1"
+            transform="translate(2.000000000000739 2.000000000000057)  rotate(0 9.999999999999716 9.999999999999716)">
+            <path id="多边形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 0)  rotate(0 9.999999999999716 9.999999999999716)"
+                d="M1.34,5L1.34,15L10,20L18.66,15L18.66,5L10,0L1.34,5Z " />
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(9.999999999999773 5.982010397133934)  rotate(0 3.479681068223382 2.0089948014328844)"
+                d="M0,4.02L6.96,0 " />
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(9.499999999999318 9.999999999999432)  rotate(0 0.5 3.9761225890716645)"
+                d="M0.5,7.95L0.5,0 " />
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(3.056182003116191 5.990984810295402)  rotate(0 3.471908998441798 2.0045075948523)"
+                d="M6.94,4.01L0,0 " />
+        </g>
+    </g>
+</svg>

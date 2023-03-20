@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-51" transform="translate(0.788034, 0.000000)">
+            <rect id="矩形备份" x="0" y="0" width="24" height="24"></rect>
+            <path
+                d="M3,9.11477378 L3,9.11477378 L3,7.3429513 C3,6.2383818 3.8954305,5.3429513 5,5.3429513 L19.4175681,5.3429513 C20.5221376,5.3429513 21.4175681,6.2383818 21.4175681,7.3429513 L21.4175681,15.5757205"
+                id="形状备份" stroke="#FAAF66"></path>
+            <path
+                d="M4.62624559,5.5951313 L4.62624559,5.5951313 L4.62624559,4.46328742 C4.62624559,3.35871792 5.52167609,2.46328742 6.62624559,2.46328742 L21.0438137,2.46328742 C22.1483832,2.46328742 23.0438137,3.35871792 23.0438137,4.46328742 L23.0438137,12.6960566 C23.0438137,13.8006261 22.1483832,14.6960566 21.0438137,14.6960566"
+                id="路径备份" stroke="#FAAF66"></path>
+            <g id="编组备份-2" transform="translate(1.000000, 8.579672)">
+                <path
+                    d="M18,8 L18,12 C18,12.5522847 17.5522847,13 17,13 L1,13 C0.44771525,13 5.11724585e-16,12.5522847 0,12 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 L17,0 C17.5522847,-1.01453063e-16 18,0.44771525 18,1 L18,4 L18,4"
+                    id="路径" stroke="#FAAF66" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="椭圆形" fill="#FAAF66" cx="13.5" cy="6" r="1"></circle>
+                <rect id="矩形" stroke="#FAAF66" stroke-linejoin="round" x="11" y="4" width="8" height="4" rx="1"></rect>
+            </g>
+            <g id="编组备份-3" transform="translate(2.500000, 12.051680)" stroke="#969AAB" stroke-width="0.888888889">
+                <circle id="椭圆形" cx="4" cy="4" r="3.55555556"></circle>
+                <polyline id="路径-72" stroke-linecap="round" stroke-linejoin="round"
+                    points="2.41636652 4 3.59854744 5.16231582 5.58363348 2.83768418"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

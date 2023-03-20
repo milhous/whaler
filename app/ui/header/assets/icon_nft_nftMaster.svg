@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(2.2737367544323206e-13 0)  rotate(0 12 12)">
+        <g opacity="1" transform="translate(2 0.9999999999999432)  rotate(0 10 10.76923076923076)">
+            <path id="路径备份" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(16.02088736541293 15.3976096746805)  rotate(0 0.8773398060597175 1.315513815618317)"
+                d="M1.52,0C1.67,0.26 1.75,0.56 1.75,0.88C1.75,1.85 0.97,2.63 0,2.63 " />
+            <path id="路径备份 2" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.224433022467679 15.3976096746805)  rotate(0 0.8773398060597175 1.315513815618317)"
+                d="M0.23,0C0.09,0.26 0,0.56 0,0.88C0,1.85 0.79,2.63 1.75,2.63 " />
+            <path id="路径 40" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(4.506973302489257 0)  rotate(0 5.493526697510365 4.125066814372415)"
+                d="M0.11,5.94C2.06,5.94 3.86,6.71 5.49,8.25C7.13,6.71 8.92,5.94 10.88,5.94C11.66,6 8,0 5.49,0C2.99,0 -0.68,6 0.11,5.94Z " />
+            <path id="路径 40" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(7.708455293016812 2.403979782590511)  rotate(0 2.2920447069828187 1.721087031781906)"
+                d="M0.05,2.48C0.86,2.48 1.61,2.8 2.29,3.44C2.97,2.8 3.72,2.48 4.54,2.48C4.87,2.5 3.34,0 2.29,0C1.25,0 -0.28,2.5 0.05,2.48Z " />
+            <path id="路径 41" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 7.692307692307679)  rotate(0 10 6.92307692307692)"
+                d="M0,6.92C1.95,7.95 3.49,8.46 4.62,8.46L3.85,12.31C5.9,13.33 7.95,13.85 10,13.85C12.05,13.85 14.1,13.33 16.15,12.31L15.38,8.46C16.51,8.46 18.05,7.95 20,6.92L14.62,0L10,2.26L5.38,0L0,6.92Z " />
+            <path id="路径 42" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(3.979112634587125 11.84034655955173)  rotate(0 0.686041143269108 3.9644421048395917)"
+                d="M0,7.93L1.37,0 " />
+            <path id="路径 42备份" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(14.64880507887466 11.84034655955173)  rotate(0 0.686041143269108 3.9644421048395917)"
+                d="M1.37,7.93L0,0 " />
+        </g>
+    </g>
+</svg>

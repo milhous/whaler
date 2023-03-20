@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(0 0)  rotate(0 12 12)">
+        <g opacity="1" transform="translate(3 3)  rotate(0 9 9)">
+            <rect id="矩形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 0)  rotate(0 9 9)" x="0.5" y="0.5" rx="1.5" width="17" height="17" />
+            <path id="路径 50" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 8.500000000000114)  rotate(0 9 0.5)" d="M18,0.5L0,0.5 " />
+            <path id="路径 51" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(8.499999999999773 1)  rotate(0 0.5 8)" d="M0.5,16L0.5,0 " />
+            <g opacity="1" transform="translate(3 3.000000000000114)  rotate(0 2 2)">
+                <path id="路径 52" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(0 1.5)  rotate(0 2 0.5)" d="M0,0.5L4,0.5 " />
+                <path id="路径 52备份" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(0 1.5)  rotate(90 2 0.5)" d="M0,0.5L4,0.5 " />
+            </g>
+            <g opacity="1" transform="translate(3.000000000000185 11)  rotate(-45 2 2)">
+                <path id="路径 52" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(-5.57283753531361e-14 1.500000000000107)  rotate(0 2 0.5)" d="M0,0.5L4,0.5 " />
+                <path id="路径 52备份" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(-5.57283753531361e-14 1.500000000000107)  rotate(90 2 0.5)"
+                    d="M0,0.5L4,0.5 " />
+            </g>
+            <path id="路径 52备份 2" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(11 4.500000000000114)  rotate(0 2 0.5)" d="M0,0.5L4,0.5 " />
+            <path id="路径 52备份 3" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(11 11.50000000000011)  rotate(0 2 0.5)" d="M0,0.5L4,0.5 " />
+            <path id="路径 52备份 4" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(11 13.50000000000011)  rotate(0 2 0.5)" d="M0,0.5L4,0.5 " />
+        </g>
+    </g>
+</svg>

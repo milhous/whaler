@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(-1.9895196601282805e-13 0)  rotate(0 12 12)">
+        <g opacity="1" transform="translate(2.137755429494746 2)  rotate(0 9.86224457050538 9.999999999999885)">
+            <g opacity="1" transform="translate(0 0)  rotate(0 9.86224457050538 9.999999999999885)">
+                <path id="椭圆形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(3.500000000000568 0)  rotate(0 5.5 5.5)"
+                    d="M11,5.5C11,2.46 8.54,0 5.5,0C2.46,0 0,2.46 0,5.5C0,8.54 2.46,11 5.5,11C8.54,11 11,8.54 11,5.5Z " />
+                <path id="路径" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(0 10.42847575038331)  rotate(0 6.092763096674745 4.5)"
+                    d="M12.19,0.58C11.19,0.21 10.12,0 9,0C4.03,0 0,4.03 0,9L12,9 " />
+                <g opacity="1"
+                    transform="translate(11.44897828202159 10.99999999999977)  rotate(0 4.137755429494587 4.5)">
+                    <path id="椭圆形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                        transform="translate(0 0)  rotate(0 4 3.999999999999946)"
+                        d="M8,4C8,1.79 6.21,0 4,0C1.79,0 0,1.79 0,4C0,6.21 1.79,8 4,8C6.21,8 8,6.21 8,4Z " />
+                    <path id="路径 82" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                        transform="translate(6.157616614508413 7)  rotate(0 1.0589471222403806 1)" d="M0,0L2.12,2 " />
+                </g>
+            </g>
+            <path id="路径 83" style="stroke:#8c91a3; stroke-width:0.8; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(14.20532470539808 14.09958858454524)  rotate(0 1.3814090061180124 1.40041141545451)"
+                d="M0,0L1.37,2.8L2.76,0 " />
+        </g>
+    </g>
+</svg>

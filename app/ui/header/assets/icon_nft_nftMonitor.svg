@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(1.1368683772161603e-13 0)  rotate(0 12.00000000000017 12)">
+        <g opacity="1" transform="translate(1.000000000000227 3.500000000000114)  rotate(0 11 8.5)">
+            <path id="形状" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.690113609531927 0)  rotate(0 8.292473743622105 8.5)"
+                d="M16.5334 6.35C15.5834 2.7 12.2634 0 8.31337 0C4.47337 0 1.23337 2.54 0.17337 6.02C0.13337 6.17 0.0933701 6.32 0.0533701 6.47 M0 10.2961C0.04 10.5061 0.1 10.7061 0.16 10.9061C1.19 14.4261 4.45 16.9961 8.31 16.9961C12.33 16.9961 15.7 14.2061 16.58 10.4461 " />
+            <path id="形状结合" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 2.499999999999886)  rotate(0 11 6)"
+                d="M11 0C16.34 0 22 6 22 6C22 6 16.34 12 11 12C5.66 12 0 6 0 6C0 6 5.66 0 11 0Z " />
+            <rect id="矩形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(6 4.499999999999886)  rotate(0 5 4)" x="0.5" y="0.5" rx="0.5" width="9"
+                height="7" />
+            <rect id="矩形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(10 6.999999999999716)  rotate(0 3 1.5)" x="0.5" y="0.5" rx="0.5" width="5"
+                height="2" />
+            <path id="椭圆形" fill-rule="evenodd" style="fill:#8c91a3"
+                transform="translate(11.60543309699602 8.082448754196378)  rotate(0 0.41755124580362235 0.41755124580362235)"
+                opacity="1"
+                d="M0.84,0.42C0.84,0.19 0.65,0 0.42,0C0.19,0 0,0.19 0,0.42C0,0.65 0.19,0.84 0.42,0.84C0.65,0.84 0.84,0.65 0.84,0.42Z " />
+            <path id="椭圆形" style="stroke:#979797; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(11.60543309699602 8.082448754196378)  rotate(0 0.41755124580362235 0.41755124580362235)"
+                d="M0.84,0.42C0.84,0.19 0.65,0 0.42,0C0.19,0 0,0.19 0,0.42C0,0.65 0.19,0.84 0.42,0.84C0.65,0.84 0.84,0.65 0.84,0.42Z " />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(0 0)  rotate(0 12 12)">
+        <g opacity="1"
+            transform="translate(2.500000000000568 2.499999999999886)  rotate(0 9.49999999999962 9.50000000000006)">
+            <rect id="矩形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 0)  rotate(0 8.5 8.49999999999994)" x="0.5" y="0.5" rx="1.5" width="17"
+                height="15.99999999999988" />
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(5.242640687118524 5.242640687119433)  rotate(0 6.87867965644036 6.87867965644036)"
+                d="M13.76,0L13.76,10.76C13.76,12.41 12.41,13.76 10.76,13.76L0,13.76 " />
+            <g opacity="1"
+                transform="translate(4.018236089844208 4.010662796670772)  rotate(0 4.981763910155109 4.989337203329399)">
+                <path id="路径 68" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(0 0)  rotate(0 2.139036610811219 2.161925889141486)" d="M0,4.32L0,0L4.28,0 " />
+                <path id="路径 71" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                    transform="translate(0 0)  rotate(0 4.981763910155109 4.989337203329399)" d="M0,0L9.96,9.98 " />
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(-2.2737367544323206e-13 -6.163593297969783e-7)  rotate(0 12.00000000000017 12)">
+        <g opacity="1" transform="translate(2.500000000000227 2.999999999999545)  rotate(0 9.5 9.000000000000284)">
+            <path id="椭圆形" fill-rule="evenodd" style="fill:#FAAF66"
+                transform="translate(12.49999999999989 10.00000000000045)  rotate(0 1 1)" opacity="1"
+                d="M2,1C2,0.45 1.55,0 1,0C0.45,0 0,0.45 0,1C0,1.55 0.45,2 1,2C1.55,2 2,1.55 2,1Z " />
+            <rect id="矩形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(11 9.000000000000284)  rotate(0 4 2.000000000000142)" x="0.5" y="0.5" rx="0.5"
+                width="8" height="3.000000000000284" />
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(5.499999999999659 0)  rotate(0 3.5 2.5221389439830193)"
+                d="M6.88,5.04C6.96,4.71 7,4.36 7,4C7,1.79 5.43,0 3.5,0C1.57,0 0,1.79 0,4C0,4.34 0.04,4.67 0.11,4.98 " />
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(1.023341755481511 1.592358773715091)  rotate(0 2.4879843619228614 1.7677700532939475)"
+                d="M4.98,0.38C4.52,0.14 4.01,0 3.48,0C1.68,0 0.2,1.55 0,3.54 " />
+            <path id="路径备份" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(12.02403127615412 1.592358773715091)  rotate(0 2.4879843619228614 1.7677700532939475)"
+                d="M0,0.38C0.45,0.14 0.96,0 1.5,0C3.3,0 4.77,1.55 4.98,3.54 " />
+            <path id="路径" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 5.000000000000568)  rotate(0 9 6.5)"
+                d="M18,8L18,12C18,12.55 17.55,13 17,13L1,13C0.45,13 0,12.55 0,12L0,1C0,0.45 0.45,0 1,0L17,0C17.55,0 18,0.45 18,1L18,4 " />
+        </g>
+    </g>
+</svg>

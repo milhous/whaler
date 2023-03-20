@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(1.1368683772161603e-13 0)  rotate(0 12.00000000000017 12)">
+        <g opacity="1" transform="translate(2.000000000000341 1)  rotate(0 9.99999999999992 10.999999999999975)">
+            <path id="形状" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 1.999999999999943)  rotate(0 7 9)"
+                d="M12 0C13.1 0 14 0.9 14 2C14 4.37 14 6.15 14 7.33 M14 13.47C14 14 14 14.84 14 16C14 17.11 13.1 18 12 18L2 18C0.9 18 0 17.11 0 16L0 2C0 0.89 0.9 0 2 0 " />
+            <path id="椭圆形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.975147815639957 0)  rotate(0 4 3.999999999999943)"
+                d="M8,4C8,1.79 6.21,0 4,0C1.79,0 0,1.79 0,4C0,6.21 1.79,8 4,8C6.21,8 8,6.21 8,4Z " />
+            <path id="椭圆形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(4.975147815639957 2)  rotate(0 2 1.9999999999999716)"
+                d="M4,2C4,0.9 3.1,0 2,0C0.9,0 0,0.9 0,2C0,3.1 0.9,4 2,4C3.1,4 4,3.1 4,2Z " />
+            <rect id="矩形"
+                style="stroke:#FAAF66; stroke-width:0.6597630858144498; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(3.013872662907261 6.496429161161359)  rotate(-330 1.429027257643797 2.639052343257799)"
+                x="0.3298815429072249" y="0.3298815429072249" rx="0" width="2.1982914294731444"
+                height="4.618341600701148" />
+            <rect id="矩形备份"
+                style="stroke:#FAAF66; stroke-width:0.6597630858144498; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(8.128072821805176 6.360947656742098)  rotate(330 1.429027257643797 2.639052343257799)"
+                x="0.3298815429072249" y="0.3298815429072249" rx="0" width="2.1982914294731444"
+                height="4.618341600701148" />
+            <g opacity="1"
+                transform="translate(13.63603896932091 15.63603896932102)  rotate(0 3.181980515339464 3.1819805153394647)">
+            </g>
+            <path id="路径 73" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.885799841102198 12.50268765778208)  rotate(0 2.182644878184097 0.5)"
+                d="M0,0.5L4.37,0.5 " />
+            <path id="路径 73备份" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(2.885799841102198 15.50268765778225)  rotate(0 3.182644878184065 0.5)"
+                d="M0,0.5L6.37,0.5 " />
+        </g>
+        <g opacity="1"
+            transform="translate(12.02407849244798 9.878679656439544)  rotate(0 5.48796075377608 6.06066017178013)">
+            <rect id="矩形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(6.293940992212697 5.939339828220795)  rotate(-45 1.5 3)" x="0.5" y="0.5" rx="1"
+                width="2" height="5" />
+            <path id="椭圆形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 0)  rotate(0 3.5 3.5)"
+                d="M7,3.5C7,1.57 5.43,0 3.5,0C1.57,0 0,1.57 0,3.5C0,5.43 1.57,7 3.5,7C5.43,7 7,5.43 7,3.5Z " />
+        </g>
+    </g>
+</svg>

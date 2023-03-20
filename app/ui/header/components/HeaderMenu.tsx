@@ -1,15 +1,16 @@
 import Link from 'next/link';
 
-import {IHeaderMenu} from '../types/header.d';
-
+import {IHeaderLink} from '../types/header.d';
+import Assets from '../assets';
 import './HeaderMenu.scss';
 
-const HeaderMenuItem = (props: {data: IHeaderMenu}) => {
+const HeaderMenuItem = (props: {data: IHeaderLink}) => {
   const {data} = props;
 
   return (
     <li>
       <Link href={data.url} title={data.title}>
+        {data.icon !== '' && <data.icon />}
         <dl>
           <dt>{data.title}</dt>
           <dd>{data.desc}</dd>
@@ -21,7 +22,7 @@ const HeaderMenuItem = (props: {data: IHeaderMenu}) => {
 };
 
 // Header - Menu
-export default function HeaderMenu(props: {data: IHeaderMenu[]; type: string}) {
+export default function HeaderMenu(props: {data: IHeaderLink[]; type: string}) {
   const {data, type} = props;
 
   return (

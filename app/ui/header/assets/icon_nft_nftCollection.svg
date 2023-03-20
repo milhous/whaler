@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+    viewBox="0 0 24 24" fill="none">
+    <g opacity="1" transform="translate(0 0)  rotate(0 12 12)">
+        <g opacity="1" transform="translate(1.45298705274325 0.7264935263714278)  rotate(0 10.70753175473084 11)">
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(17.38632019150702 8.639412568196121)  rotate(-330 1.2211748636075335 3.5)"
+                d="M0,0L1.44,0C1.99,0 2.44,0.45 2.44,1L2.44,6C2.44,6.55 1.99,7 1.44,7L0.46,7 " />
+            <rect id="矩形备份 4" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(13.00000000000045 6.999999999999886)  rotate(0 2.5 3.5)" x="0.5" y="0.5" rx="0.5"
+                width="5" height="6" />
+            <path id="路径" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(11.06698729810842 8.249999999999602)  rotate(-30 2 3.5)"
+                d="M2.91,7L1,7C0.45,7 0,6.55 0,6L0,1C0,0.45 0.45,0 1,0L3.26,0L4,0 " />
+            <path id="形状" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(5 3)  rotate(0 7 8)"
+                d="M0 0L13 0C13.55 0 14 0.45 14 1L14 3.03 M14 13.0929L14 15.0029C14 15.5529 13.55 16.0029 13 16.0029L0 16.0029 " />
+            <path id="路径 49" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(5 10.50000000000011)  rotate(0 2.2924682452697036 0.5)" d="M0,0.5L4.58,0.5 " />
+            <rect id="矩形" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 0)  rotate(0 2.5 3.5)" x="0.5" y="0.5" rx="0.5" width="4" height="6" />
+            <rect id="矩形备份" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 8)  rotate(0 2.5 3)" x="0.5" y="0.5" rx="0.5" width="4" height="5" />
+            <rect id="矩形备份 2" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 15)  rotate(0 2.5 3.5)" x="0.5" y="0.5" rx="0.5" width="4" height="6" />
+        </g>
+    </g>
+</svg>

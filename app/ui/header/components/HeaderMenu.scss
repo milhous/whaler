@@ -32,7 +32,7 @@
   }
 
   ul {
-    @apply box-border grid rounded-lg bg-white p-4 text-gray-dark shadow md:w-[640px] md:grid-cols-2 lg:w-[768px];
+    @apply box-border grid rounded-lg bg-white p-4 text-gray-dark shadow md:w-[640px] md:grid-cols-2 lg:w-[768px] xl:w-[1024px] xl:grid-cols-3;
   }
 
   a {
@@ -48,6 +48,10 @@
 
     i {
       @apply absolute top-1/2 right-4 -translate-y-1/2 -translate-x-1/2 opacity-0;
+    }
+
+    svg {
+      @apply mr-4 h-7 w-7 min-w-[28px] object-contain;
     }
   }
 

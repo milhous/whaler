@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="25"
+    viewBox="0 0 24 25" fill="none">
+    <g opacity="1" transform="translate(2.2737367544323206e-13 -6.16358846627918e-7)  rotate(0 12 12.001673052930386)">
+        <g opacity="1"
+            transform="translate(2.392416644743925 3.503346105860757)  rotate(0 9.607583355256414 8.500000000000014)">
+            <rect id="矩形" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 0)  rotate(0 9.607583355256414 2.5)" x="0.5" y="0.5" rx="0"
+                width="18.21516671051283" height="4" />
+            <rect id="矩形备份" style="stroke:#FAAF66; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 12.00000000000003)  rotate(0 9.607583355256414 2.5)" x="0.5" y="0.5" rx="0"
+                width="18.21516671051283" height="4" />
+            <rect id="矩形备份 2" style="stroke:#8c91a3; stroke-width:1; stroke-opacity:1; stroke-dasharray:0 0"
+                transform="translate(0 6.000000000000014)  rotate(0 9.607583355256414 2.5)" x="0.5" y="0.5" rx="0"
+                width="18.21516671051283" height="4" />
+        </g>
+    </g>
+</svg>
