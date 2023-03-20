@@ -93,4 +93,4 @@
 
 学习 NextJS 示例，请查看 [NextJS Examples](https://app-dir.vercel.app/)
 
-学习 Tailwindcss [Tailwindcss documentation](https://tailwindcss.com/docs/installation/).
+学习 Tailwindcss，请查看 [Tailwindcss documentation](https://tailwindcss.com/docs/installation/).
