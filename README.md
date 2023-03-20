@@ -4,6 +4,51 @@
 
 这个项目是使用引导程序启动的 [NextJS](https://beta.nextjs.org/docs/getting-started).
 
+## 目录结构
+
+### 目录结构
+
+```
+|－ whaler
+|     |－ @types 声明文件
+|     |－ public 静态文件，可以从 base URL (/) 引用文件
+|     |－ webpack webpack配置文件
+|     |－ app 源文件
+|           |－ assets 公共静态资源
+|                 |－ fonts 字体
+|                 |－ images 图片
+|           |－ libs 公共库
+|           |－ ui UI库
+|                 |－ header 头部
+|                 |－ footer 底部
+|           |－ widget Widget库
+|                 |－ modal 弹窗
+|           |－ home 页面 - 首页
+|                 |－ assets 静态资源
+|                 |－ components 组件
+|                 |－ utils 实用工具
+|                 |－ api 接口调用
+|                 |－ types 类型声明
+|           |－ nft 页面 - NFT类相关
+|           |－ services 页面 - 服务类相关
+|           |－ tools 页面 - 工具类相关
+|                 |－ batchQueryBalance 批量查询余额
+|                 |－ createWallet 批量生成钱包
+|                 |－ moreToOne 代币批量归集
+|                 |－ nftMoreToOne NFT 批量归集
+|                 |－ nftSender NFT 批量发送
+|                 |－ solanaMoreToOne Solana 批量归集
+|                 |－ tokenSender 批量发送代币
+|                 |－ vanityGeneratorEth 靓号生成
+|           |－ globals.scss 全局样式
+|           |－ head.tsx head相关
+|           |－ layout.tsx 页面公共内容相关
+|           |－ middleware.ts nextJS 中间件
+|           |－ next.config NextJS 配置文件
+|           |－ postcss.config Postcss 配置文件
+|           |－ tailwind.config Tailwind 配置文件
+```
+
 ## Available Scripts
 
 在项目目录中，你可以运行：
