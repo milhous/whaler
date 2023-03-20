@@ -23,7 +23,7 @@ export default function HeaderSidebar() {
   return (
     <>
       <input type="checkbox" id="ui-header_sidebar" className="hidden" />
-      <div className="ui-header_sidebar md:hidden">
+      <div className="ui-header_sidebar md:!hidden">
         <label className="text_hover" htmlFor="ui-header_sidebar">
           <Assets.IconSidebar />
         </label>
