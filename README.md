@@ -23,6 +23,8 @@
 |           |－ widget Widget库
 |                 |－ modal 弹窗
 |                 |－ ...
+|           |－ web3 Web3库，提供数据查询，合约调用等方法
+|                 |－ ...
 |           |－ home 页面 - 首页
 |                 |－ assets 静态资源
 |                 |－ components 组件
