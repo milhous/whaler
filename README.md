@@ -9,8 +9,6 @@
 ```
 |－ whaler
 |     |－ @types 声明文件
-|     |－ public 静态文件，可以从 base URL (/) 引用文件
-|     |－ webpack webpack配置文件
 |     |－ app 源文件
 |           |－ api API 路由
 |           |－ assets 公共静态资源
@@ -44,13 +42,15 @@
 |                 |－ tokenSender 批量发送代币
 |                 |－ vanityGeneratorEth 靓号生成
 |                 |－ ...
-|           |－ globals.scss 全局样式
-|           |－ head.tsx head 内容相关
-|           |－ layout.tsx 页面公共内容相关
-|           |－ middleware.ts nextJS 中间件
-|           |－ next.config NextJS 配置文件
-|           |－ postcss.config Postcss 配置文件
-|           |－ tailwind.config Tailwind 配置文件
+|     |－ public 静态文件，可以从 base URL (/) 引用文件
+|     |－ webpack webpack配置文件
+|     |－ globals.scss 全局样式
+|     |－ head.tsx head 内容相关
+|     |－ layout.tsx 页面公共内容相关
+|     |－ middleware.ts nextJS 中间件
+|     |－ next.config NextJS 配置文件
+|     |－ postcss.config Postcss 配置文件
+|     |－ tailwind.config Tailwind 配置文件
 ```
 
 ## Available Scripts
