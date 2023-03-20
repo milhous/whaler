@@ -83,7 +83,7 @@
 
 ### `yarn run update`
 
-更新升级依赖包版本号。
+升级更新 package.json 依赖包版本号，需手动执行 `yarn install` 安装新版本。
 
 ## Learn More
 
