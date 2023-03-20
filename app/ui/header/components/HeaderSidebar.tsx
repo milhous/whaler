@@ -11,6 +11,7 @@ const HeaderSidebarItem = (props: {data: IHeaderLink}) => {
   return (
     <li>
       <Link className="text_hover" href={data.url} title={data.title}>
+        {data.icon !== '' && <data.icon />}
         <span>{data.title}</span>
       </Link>
     </li>

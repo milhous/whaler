@@ -1,12 +1,12 @@
 export const metadata = {
-  title: '批量查询余额',
+  title: '靓号生成',
 };
 
 export default function Page() {
   return (
     <main className="container">
       <section>
-        <h3 className="my-[40px] text-center text-[24px] font-semibold">批量查询余额</h3>
+        <h3 className="my-[40px] text-center text-[24px] font-semibold">靓号生成</h3>
       </section>
     </main>
   );

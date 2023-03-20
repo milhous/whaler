@@ -43,6 +43,10 @@
         a {
           @apply flex h-12 items-center px-3;
         }
+
+        svg {
+          @apply mr-3 h-6 w-6 min-w-[24px];
+        }
       }
 
       p {

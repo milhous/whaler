@@ -21,7 +21,7 @@ const toolsList = [
     title: '批量发送代币',
     desc: '只需几秒，批量发送 Token 到上千钱包。省时省力!',
     icon: Assets.IconTokenSenderLight,
-    url: '',
+    url: '/tools/tokenSender',
   },
   {
     title: '科学家抢币',
@@ -45,7 +45,7 @@ const toolsList = [
     title: 'NFT 批量归集',
     desc: '多钱包归集 NFT 到主钱包，速度快、节省 GAS 费用',
     icon: Assets.IconNftCollectionLight,
-    url: '',
+    url: '/tools/nftMoreToOne',
   },
   {
     title: '鲸鱼钱包监控',
