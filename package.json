@@ -15,6 +15,10 @@
     },
     "dependencies": {
         "@coinbase/wallet-sdk": "^3.6.4",
+        "@emotion/react": "^11.10.6",
+        "@emotion/styled": "^11.10.6",
+        "@mui/icons-material": "^5.11.11",
+        "@mui/material": "^5.11.14",
         "@trustwallet/web3-react-trust-wallet": "^0.0.3",
         "@web3-react/coinbase-wallet": "^8.1.2-beta.0",
         "@web3-react/core": "^8.1.2-beta.0",

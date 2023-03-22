@@ -1,5 +1,6 @@
 import localFont from 'next/font/local';
 
+import UIMaterialProvider from '@ui/material/Provider';
 import UIHeader from '@ui/header';
 import UIFooter from '@ui/footer';
 
@@ -62,9 +63,11 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
   return (
     <html className={`${fontIonicons.variable}`}>
       <body>
-        <UIHeader />
-        {children}
-        <UIFooter />
+        <UIMaterialProvider>
+          <UIHeader />
+          {children}
+          <UIFooter />
+        </UIMaterialProvider>
       </body>
     </html>
   );
