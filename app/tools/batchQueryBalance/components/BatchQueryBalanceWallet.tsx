@@ -48,9 +48,15 @@ export default function BatchQueryBalanceWallet() {
               }
             />
           </li>
-          <li className="col-span-4">余额</li>
-          <li>状态</li>
-          <li>操作</li>
+          <li className="col-span-4 self-center">
+            <span>余额</span>
+          </li>
+          <li className="self-center justify-self-center">
+            <span>状态</span>
+          </li>
+          <li className="self-center justify-self-center">
+            <span>操作</span>
+          </li>
         </ul>
         <div className="bqb-wallet_list">
           <div className="flex h-[100px] items-center justify-center">请导入钱包</div>
