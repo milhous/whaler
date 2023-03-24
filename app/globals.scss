@@ -19,6 +19,15 @@ body {
     @apply bg-orange hover:bg-orange/90;
   }
 
+  button.MuiButton-containedError {
+    @apply bg-red hover:bg-red/90;
+  }
+
+  button.MuiButtonBase-root:disabled {
+    cursor: not-allowed;
+    pointer-events: auto;
+  }
+
   .text_desc {
     @apply text-gray-light;
   }

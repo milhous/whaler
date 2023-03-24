@@ -6,8 +6,7 @@ import FormControl from '@mui/material/FormControl';
 import Select, {SelectChangeEvent} from '@mui/material/Select';
 import Button from '@mui/material/Button';
 
-// 批量查询余额 - 选择代币
-export default function BatchQueryBalanceToken() {
+export default function BatchQueryBalanceChain() {
   const [token, setToken] = useState<string>('ETH');
   const [open, setOpen] = useState(false);
 
@@ -24,11 +23,11 @@ export default function BatchQueryBalanceToken() {
   };
 
   return (
-    <div className="bqb-token col-span-2 space-y-2">
+    <div className="bqb-token space-y-2">
       <div className="flex items-center justify-between">
-        <h4 className="leading-[30.75px]">选择代币</h4>
+        <h4 className="leading-[30.75px]">选择链</h4>
         <Button size="small" variant="contained" disableElevation>
-          添加代币
+          添加自定义区块链
         </Button>
       </div>
       <FormControl className="w-full">

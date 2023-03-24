@@ -2,14 +2,23 @@
 
 import {useState} from 'react';
 
+import BatchQueryBalanceWallet from './BatchQueryBalanceWallet';
+import BatchQueryBalanceChain from './BatchQueryBalanceChain';
+import BatchQueryBalanceNode from './BatchQueryBalanceNode';
+import BatchQueryBalanceThreads from './BatchQueryBalanceThreads';
 import BatchQueryBalanceToken from './BatchQueryBalanceToken';
 import BatchQueryBalanceMode from './BatchQueryBalanceMode';
 
 export default function BatchQueryBalance() {
   return (
     <div className="relative mx-auto mb-10 w-full space-y-5 px-5 md:rounded-2xl md:border md:border-solid md:border-gray md:py-6 md:shadow-md">
+      <BatchQueryBalanceWallet />
       <div className="grid grid-cols-3 gap-x-5">
-        <div>11111</div>
+        <BatchQueryBalanceChain />
+        <BatchQueryBalanceNode />
+      </div>
+      <div className="grid grid-cols-3 gap-x-5">
+        <BatchQueryBalanceThreads />
         <BatchQueryBalanceToken />
       </div>
       <BatchQueryBalanceMode />
