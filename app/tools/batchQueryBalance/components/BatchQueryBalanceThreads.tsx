@@ -1,6 +1,6 @@
 'use client';
 
-import {useEffect, useState} from 'react';
+import {ChangeEvent, useDeferredValue, useEffect, useState} from 'react';
 
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
@@ -8,10 +8,11 @@ import {AddOutlined, RemoveOutlined} from '@mui/icons-material';
 
 // 线程数
 export default function BatchQueryBalanceThreads() {
-  const max = 20;
+  const max = 10;
   const [nums, setNums] = useState<number>(1);
   const [subDisableState, setSubDisableState] = useState<boolean>(true);
   const [addDisableState, setAddDisableState] = useState<boolean>(false);
+  const deferredNums = useDeferredValue(nums);
 
   // 减少
   const handleSub = () => {
@@ -31,16 +32,42 @@ export default function BatchQueryBalanceThreads() {
     setNums(nums + 1);
   };
 
+  // 改变
+  const handleChange = (evt: ChangeEvent<HTMLTextAreaElement | HTMLInputElement>) => {
+    const val = Number(evt.target.value);
+
+    if (Number.isNaN(val)) {
+      return;
+    }
+
+    setNums(val);
+  };
+
+  // 移开
+  const handleBlur = (evt: ChangeEvent<HTMLTextAreaElement | HTMLInputElement>) => {
+    let val = Number(evt.target.value);
+
+    if (val < 1) {
+      val = 1;
+    } else if (val > max) {
+      val = max;
+    }
+
+    setNums(val);
+  };
+
   useEffect(() => {
-    if (nums <= 1) {
+    if (deferredNums <= 1) {
       setSubDisableState(true);
-    } else if (nums >= max) {
+      setAddDisableState(false);
+    } else if (deferredNums >= max) {
+      setSubDisableState(false);
       setAddDisableState(true);
     } else {
       setSubDisableState(false);
       setAddDisableState(false);
     }
-  }, [nums]);
+  }, [deferredNums]);
 
   return (
     <div className="bqb-threads space-y-2">
@@ -53,9 +80,8 @@ export default function BatchQueryBalanceThreads() {
           className="bqb-threads_input"
           fullWidth
           size="small"
-          onChange={evt => {
-            console.log(evt.target.value);
-          }}
+          onChange={handleChange}
+          onBlur={handleBlur}
           value={nums}
         />
         <Button variant="outlined" disabled={addDisableState} onClick={handleAdd}>
